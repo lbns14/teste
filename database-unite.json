@@ -1,26 +1,26 @@
 [{
 	"id": 0,
 	"name": "ABSOL",
-	"pic": "<img src='https://unite.pokemon.com/images/pokemon/absol/stat/stat-absol.png'>",
+	"pic": "<img src='https://unite.pokemon.com/images/pokemon/absol/stat/stat-absol.png' width='270' height='270' />",
 	"role": "Veloz",
 	"range": "Corpo a corpo",
 	"difficulty": "Experiente",
 	"damagetype": "Ataque Físico",
 	"ability": "Supersorte",
 	"abilitydesc": "Aumenta a taxa crítica do Pokémon.",
-	"abilityico": "<img src='https://ptbr.uniteapi.dev/assets/Sprites/t_Skill_Absol_P1.png'>",
+	"abilityico": "<img src='https://ptbr.uniteapi.dev/assets/Sprites/t_Skill_Absol_P1.png' width='60' height='60' />",
 	"basicdesc": "Cada terceiro ataque vira um ataque potenciado, causando dano aos Pokémon oponentes e reduzindo a Defesa deles ao atingir. Se o ataque potenciado atingir somente um Pokémon oponente, causa dano aumentado.",
 	"move1": {
 		"title": "Fintar",
 		"desc": "Avança para frente em um arco, atacando os Pokémon oponentes com quem entrar em contato. Este movimento ignora a Defesa e efeitos de escudo dos Pokémon oponentes.",
-		"ico": "<img src='https://ptbr.uniteapi.dev/assets/Sprites/t_Skill_Absol_S2.png'>",
+		"ico": "<img src='https://ptbr.uniteapi.dev/assets/Sprites/t_Skill_Absol_S2.png' width='60' height='60' />",
 		"cooldown": "8s",
-		"type": "Arremetida",
+		"type": "<img width='18px' height='18px' style='vertical-align:text-top;' src='https://ptbr.uniteapi.dev/assets/Sprites/t_Skill_Label_weiyi.png'> Arremetida",
 		"level": "Nível 5",
 		"upgrade1": {
 			"title": "Talho Noturno",
 			"desc": "Avança em um arco, causando danos aos Pokémon oponentes. Se esse primeiro ataque acertar, é possível desferir um segundo ataque. No segundo ataque, avança direto para frente, causando danos aos Pokémon oponentes e aumentando sua taxa crítica. Quanto menor os PS do Pokémon oponente, mais a sua taxa crítica aumenta.",
-			"ico": "<img src='https://ptbr.uniteapi.dev/assets/Sprites/t_Skill_Absol_S21.png'>",
+			"ico": "<img src='https://ptbr.uniteapi.dev/assets/Sprites/t_Skill_Absol_S21.png' width='60' height='60' />",
 			"melhoria": "Nível 11: Usar este movimento novamente restaura o seu PS.",
 			"cooldown": "5s",
 			"type": "Arremetida"
@@ -28,7 +28,7 @@
 		"upgrade2": {
 			"title": "Perseguição",
 			"desc": "Salta para o local designado e avança rapidamente contra um Pokémon oponente com o próximo ataque básico. Se o ataque básico atingir por trás, o dano é aumentado e a recarga deste movimento é reduzida.",
-			"ico": "<img src='https://ptbr.uniteapi.dev/assets/Sprites/t_Skill_Absol_S12.png'>",
+			"ico": "<img src='https://ptbr.uniteapi.dev/assets/Sprites/t_Skill_Absol_S12.png' width='60' height='60' />",
 			"melhoria": "Nível 11: Aumenta a sua velocidade de movimento.",
 			"cooldown": "5s",
 			"type": "Arremetida"
@@ -37,14 +37,14 @@
 	"move2": {
 		"title": "Talho",
 		"desc": "Ataca com garras afiadas o que tiver à sua frente, aumentando a taxa crítica deste movimento.",
-		"ico": "<img src='https://ptbr.uniteapi.dev/assets/Sprites/t_Skill_Absol_S1.png'>",
+		"ico": "<img src='https://ptbr.uniteapi.dev/assets/Sprites/t_Skill_Absol_S1.png' width='60' height='60' />",
 		"cooldown": "6s",
 		"type": "Corpo a corpo",
 		"level": "Nível 7",
 		"upgrade1": {
 			"title": "Corte Psíquico",
 			"desc": "Ataca com lâminas psíquicas que diminuem a velocidade de movimento dos Pokémon oponentes por um curto período ao acertá-lo. Também aumenta o dano do ataque básico causado aos Pokémon oponentes afetados por até três ataques depois que este movimento o acerta.",
-			"ico": "<img src='https://ptbr.uniteapi.dev/assets/Sprites/t_Skill_Absol_S11.png'>",
+			"ico": "<img src='https://ptbr.uniteapi.dev/assets/Sprites/t_Skill_Absol_S11.png' width='60' height='60' />",
 			"melhoria": "Nível 13: Também aumenta a sua velocidade de movimento por um curto período quando se aproxima de Pokémon oponentes atingidos pelo movimento.",
 			"cooldown": "7s",
 			"type": "Longo alcance"
@@ -52,7 +52,7 @@
 		"upgrade2": {
 			"title": "Soco Enganador",
 			"desc": "Procura uma abertura para atacar um Pokémon oponente, diminuindo sua velocidade de movimento e do Pokémon oponente durante o efeito. Após um curto período, investe para atacar o Pokémon oponente. No entanto, se receber dano ou for atacado antes de atacar, ele ataca imediatamente e empurra o Pokémon oponente.",
-			"ico": "<img src='https://ptbr.uniteapi.dev/assets/Sprites/t_Skill_Absol_S22.png'>",
+			"ico": "<img src='https://ptbr.uniteapi.dev/assets/Sprites/t_Skill_Absol_S22.png' width='60' height='60' />",
 			"melhoria": "Nível 13: Aumenta a velocidade do ataque básico por um curto período quando o movimento acerta.",
 			"cooldown": "6s",
 			"type": "Infalível"
@@ -61,7 +61,7 @@
 	"unite": {
 		"title": "Talho da Meia-noite",
 		"desc": "Desfere uma enxurrada de cortes na sua frente. Este movimento termina liberando poderosas lâminas de energia, causando mais danos aos Pokémon oponentes e empurrando-os.",
-		"ico": "<img src='https://ptbr.uniteapi.dev/assets/Sprites/t_Skill_Absol_G1.png'>",
+		"ico": "<img src='https://ptbr.uniteapi.dev/assets/Sprites/t_Skill_Absol_G1.png' width='60' height='60' />",
 		"type": "Área",
 		"level": "Nível 9"
 	}
