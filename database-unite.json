@@ -1,36 +1,34 @@
-[
-    {
-        "id": 0,
-        "name": "ABSOL",
-        "role": "Veloz",
-        "range": "Corpo a corpo",
-        "difficulty": "Experiente",
-        "damagetype": "Ataque Físico",
-        "ability": "Supersorte",
-        "abilitydesc": "Aumenta a taxa crítica do Pokémon.",
-		"ability-ico": "<img src='https://ptbr.uniteapi.dev/assets/Sprites/t_Skill_Absol_P1.png'>",
-        "basicdesc": "Cada terceiro ataque vira um ataque potenciado, causando dano aos Pokémon oponentes e reduzindo a Defesa deles ao atingir. Se o ataque potenciado atingir somente um Pokémon oponente, causa dano aumentado.",
-        "move1":{
-			"title":"Fintar",
-			"desc": "Avança para frente em um arco, atacando os Pokémon oponentes com quem entrar em contato. Este movimento ignora a Defesa e efeitos de escudo dos Pokémon oponentes.",
-			"cooldown": "8s",
-			"type": "Arremetida",
-			"level": "Nível 5",
-			"upgrade1":{
-				"title": "Talho Noturno",
-				"desc": "Avança em um arco, causando danos aos Pokémon oponentes. Se esse primeiro ataque acertar, é possível desferir um segundo ataque. No segundo ataque, avança direto para frente, causando danos aos Pokémon oponentes e aumentando sua taxa crítica. Quanto menor os PS do Pokémon oponente, mais a sua taxa crítica aumenta.",
-				"melhoria": "Nível 11: Usar este movimento novamente restaura o seu PS.",
-				"cooldown": "5s",
-				"type": "Arremetida",
-			}
-			"upgrade2":{
-				"title": "Perseguição",
-				"desc": "Salta para o local designado e avança rapidamente contra um Pokémon oponente com o próximo ataque básico. Se o ataque básico atingir por trás, o dano é aumentado e a recarga deste movimento é reduzida.",
-				"melhoria": "Nível 11: Aumenta a sua velocidade de movimento.",
-				"cooldown": "5s",
-				"type": "Arremetida",
-			}
-		}
+{
+	"id": 0,
+	"name": "ABSOL",
+	"role": "Veloz",
+	"range": "Corpo a corpo",
+	"difficulty": "Experiente",
+	"damagetype": "Ataque Físico",
+	"ability": "Supersorte",
+	"abilitydesc": "Aumenta a taxa crítica do Pokémon.",
+	"ability-ico": "<img src='https://ptbr.uniteapi.dev/assets/Sprites/t_Skill_Absol_P1.png'>",
+	"basicdesc": "Cada terceiro ataque vira um ataque potenciado, causando dano aos Pokémon oponentes e reduzindo a Defesa deles ao atingir. Se o ataque potenciado atingir somente um Pokémon oponente, causa dano aumentado.",
+	"move1": [{
+		"title": "Fintar",
+		"desc": "Avança para frente em um arco, atacando os Pokémon oponentes com quem entrar em contato. Este movimento ignora a Defesa e efeitos de escudo dos Pokémon oponentes.",
+		"cooldown": "8s",
+		"type": "Arremetida",
+		"level": "Nível 5",
+		"upgrade1": [{
+			"title": "Talho Noturno",
+			"desc": "Avança em um arco, causando danos aos Pokémon oponentes. Se esse primeiro ataque acertar, é possível desferir um segundo ataque. No segundo ataque, avança direto para frente, causando danos aos Pokémon oponentes e aumentando sua taxa crítica. Quanto menor os PS do Pokémon oponente, mais a sua taxa crítica aumenta.",
+			"melhoria": "Nível 11: Usar este movimento novamente restaura o seu PS.",
+			"cooldown": "5s",
+			"type": "Arremetida"
+		}],
+		"upgrade2": [{
+			"title": "Perseguição",
+			"desc": "Salta para o local designado e avança rapidamente contra um Pokémon oponente com o próximo ataque básico. Se o ataque básico atingir por trás, o dano é aumentado e a recarga deste movimento é reduzida.",
+			"melhoria": "Nível 11: Aumenta a sua velocidade de movimento.",
+			"cooldown": "5s",
+			"type": "Arremetida"
+		}]
+	}]
 
-    }
-]
+}
