@@ -8,6 +8,7 @@
         "damagetype": "Ataque Físico",
         "ability": "Supersorte",
         "abilitydesc": "Aumenta a taxa crítica do Pokémon.",
+	"ability-ico": "<img src='https://ptbr.uniteapi.dev/assets/Sprites/t_Skill_Absol_P1.png'>"
         "basicdesc": "Cada terceiro ataque vira um ataque potenciado, causando dano aos Pokémon oponentes e reduzindo a Defesa deles ao atingir. Se o ataque potenciado atingir somente um Pokémon oponente, causa dano aumentado.",
         "move1":{
 			"title":"Fintar",
