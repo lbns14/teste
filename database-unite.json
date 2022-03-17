@@ -24,7 +24,7 @@
 			"melhoria": "Nível 11: Usar este movimento novamente restaura o seu PS.",
 			"cooldown": "5s",
 			"type": "Arremetida"
-		}
+		},
 		"upgrade2": {
 			"title": "Perseguição",
 			"desc": "Salta para o local designado e avança rapidamente contra um Pokémon oponente com o próximo ataque básico. Se o ataque básico atingir por trás, o dano é aumentado e a recarga deste movimento é reduzida.",
