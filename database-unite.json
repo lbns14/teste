@@ -40,7 +40,7 @@
 		"ico": "<img src='https://ptbr.uniteapi.dev/assets/Sprites/t_Skill_Absol_S1.png' width='60' height='60' />",
 		"cooldown": "6s",
 		"type": "Corpo a corpo",
-		"level": "Nível 7",
+		"level": "nível 7",
 		"upgrade1": {
 			"title": "Corte Psíquico",
 			"desc": "Ataca com lâminas psíquicas que diminuem a velocidade de movimento dos Pokémon oponentes por um curto período ao acertá-lo. Também aumenta o dano do ataque básico causado aos Pokémon oponentes afetados por até três ataques depois que este movimento o acerta.",
