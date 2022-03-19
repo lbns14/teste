@@ -16,7 +16,7 @@
 		"ico": "<img src='https://ptbr.uniteapi.dev/assets/Sprites/t_Skill_Absol_S2.png' width='60' height='60' />",
 		"cooldown": "8s",
 		"type": "<img width='18px' height='18px' style='vertical-align:text-top;' src='https://ptbr.uniteapi.dev/assets/Sprites/t_Skill_Label_weiyi.png'> Arremetida",
-		"level": "Nível 5",
+		"level": "nível 5",
 		"upgrade1": {
 			"title": "Talho Noturno",
 			"desc": "Avança em um arco, causando danos aos Pokémon oponentes. Se esse primeiro ataque acertar, é possível desferir um segundo ataque. No segundo ataque, avança direto para frente, causando danos aos Pokémon oponentes e aumentando sua taxa crítica. Quanto menor os PS do Pokémon oponente, mais a sua taxa crítica aumenta.",
