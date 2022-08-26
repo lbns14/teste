@@ -2,1058 +2,1058 @@
   {
     "numero": "001",
     "nome": "Bulbasaur",
-    "tipoA": "Planta",
-    "tipoB": "Venenoso",
+    "tipoa": "Planta",
+    "tipob": "Venenoso",
     "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/001.png"
   },
   {
     "numero": "002",
     "nome": "Ivysaur",
-    "tipoA": "Planta",
-    "tipoB": "Venenoso",
+    "tipoa": "Planta",
+    "tipob": "Venenoso",
     "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/002.png"
   },
   {
     "numero": "003",
     "nome": "Venusaur",
-    "tipoA": "Planta",
-    "tipoB": "Venenoso",
+    "tipoa": "Planta",
+    "tipob": "Venenoso",
     "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/003.png"
   },
   {
     "numero": "004",
     "nome": "Charmander",
-    "tipoA": "Fogo",
-    "tipoB": "",
+    "tipoa": "Fogo",
+    "tipob": "",
     "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/004.png"
   },
   {
     "numero": "005",
     "nome": "Charmeleon",
-    "tipoA": "Fogo",
-    "tipoB": "",
+    "tipoa": "Fogo",
+    "tipob": "",
     "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/005.png"
   },
   {
     "numero": "006",
     "nome": "Charizard",
-    "tipoA": "Fogo",
-    "tipoB": "Voador",
+    "tipoa": "Fogo",
+    "tipob": "Voador",
     "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/006.png"
   },
   {
     "numero": "007",
     "nome": "Squirtle",
-    "tipoA": "Água",
-    "tipoB": "",
+    "tipoa": "Água",
+    "tipob": "",
     "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/007.png"
   },
   {
     "numero": "008",
     "nome": "Wartortle",
-    "tipoA": "Água",
-    "tipoB": "",
+    "tipoa": "Água",
+    "tipob": "",
     "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/008.png"
   },
   {
     "numero": "009",
     "nome": "Blastoise",
-    "tipoA": "Água",
-    "tipoB": "",
+    "tipoa": "Água",
+    "tipob": "",
     "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/009.png"
   },
   {
     "numero": "010",
     "nome": "Caterpie",
-    "tipoA": "Inseto",
-    "tipoB": "",
+    "tipoa": "Inseto",
+    "tipob": "",
     "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/010.png"
   },
   {
     "numero": "011",
     "nome": "Metapod",
-    "tipoA": "Inseto",
-    "tipoB": "",
+    "tipoa": "Inseto",
+    "tipob": "",
     "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/011.png"
   },
   {
     "numero": "012",
     "nome": "Butterfree",
-    "tipoA": "Inseto",
-    "tipoB": "Voador",
+    "tipoa": "Inseto",
+    "tipob": "Voador",
     "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/012.png"
   },
   {
     "numero": "013",
     "nome": "Weedle",
-    "tipoA": "Inseto",
-    "tipoB": "Venenoso",
+    "tipoa": "Inseto",
+    "tipob": "Venenoso",
     "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/013.png"
   },
   {
     "numero": "014",
     "nome": "Kakuna",
-    "tipoA": "Inseto",
-    "tipoB": "Venenoso",
+    "tipoa": "Inseto",
+    "tipob": "Venenoso",
     "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/014.png"
   },
   {
     "numero": "015",
     "nome": "Beedrill",
-    "tipoA": "Inseto",
-    "tipoB": "Venenoso",
+    "tipoa": "Inseto",
+    "tipob": "Venenoso",
     "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/015.png"
   },
   {
     "numero": "016",
     "nome": "Pidgey",
-    "tipoA": "Normal",
-    "tipoB": "Voador",
+    "tipoa": "Normal",
+    "tipob": "Voador",
     "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/016.png"
   },
   {
     "numero": "017",
     "nome": "Pidgeotto",
-    "tipoA": "Normal",
-    "tipoB": "Voador",
+    "tipoa": "Normal",
+    "tipob": "Voador",
     "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/017.png"
   },
   {
     "numero": "018",
     "nome": "Pidgeot",
-    "tipoA": "Normal",
-    "tipoB": "Voador",
+    "tipoa": "Normal",
+    "tipob": "Voador",
     "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/018.png"
   },
   {
     "numero": "019",
     "nome": "Rattata",
-    "tipoA": "Normal",
-    "tipoB": "",
+    "tipoa": "Normal",
+    "tipob": "",
     "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/019.png"
   },
   {
     "numero": "020",
     "nome": "Raticate",
-    "tipoA": "Normal",
-    "tipoB": "",
+    "tipoa": "Normal",
+    "tipob": "",
     "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/020.png"
   },
   {
     "numero": "021",
     "nome": "Spearow",
-    "tipoA": "Normal",
-    "tipoB": "Voador",
+    "tipoa": "Normal",
+    "tipob": "Voador",
     "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/021.png"
   },
   {
     "numero": "022",
     "nome": "Fearow",
-    "tipoA": "Normal",
-    "tipoB": "Voador",
+    "tipoa": "Normal",
+    "tipob": "Voador",
     "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/022.png"
   },
   {
     "numero": "023",
     "nome": "Ekans",
-    "tipoA": "Venenoso",
-    "tipoB": "",
+    "tipoa": "Venenoso",
+    "tipob": "",
     "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/023.png"
   },
   {
     "numero": "024",
     "nome": "Arbok",
-    "tipoA": "Venenoso",
-    "tipoB": "",
+    "tipoa": "Venenoso",
+    "tipob": "",
     "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/024.png"
   },
   {
     "numero": "025",
     "nome": "Pikachu",
-    "tipoA": "Elétrico",
-    "tipoB": "",
+    "tipoa": "Elétrico",
+    "tipob": "",
     "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/025.png"
   },
   {
     "numero": "026",
     "nome": "Raichu",
-    "tipoA": "Elétrico",
-    "tipoB": "",
+    "tipoa": "Elétrico",
+    "tipob": "",
     "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/026.png"
   },
   {
     "numero": "027",
     "nome": "Sandshrew",
-    "tipoA": "Terrestre",
-    "tipoB": "",
+    "tipoa": "Terrestre",
+    "tipob": "",
     "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/027.png"
   },
   {
     "numero": "028",
     "nome": "Sandslash",
-    "tipoA": "Terrestre",
-    "tipoB": "",
+    "tipoa": "Terrestre",
+    "tipob": "",
     "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/028.png"
   },
   {
     "numero": "029",
     "nome": "Nidoran♀",
-    "tipoA": "Venenoso",
-    "tipoB": "",
+    "tipoa": "Venenoso",
+    "tipob": "",
     "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/029.png"
   },
   {
     "numero": "030",
     "nome": "Nidorina",
-    "tipoA": "Venenoso",
-    "tipoB": "",
+    "tipoa": "Venenoso",
+    "tipob": "",
     "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/030.png"
   },
   {
     "numero": "031",
     "nome": "Nidoqueen",
-    "tipoA": "Venenoso",
-    "tipoB": "Terrestre",
+    "tipoa": "Venenoso",
+    "tipob": "Terrestre",
     "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/031.png"
   },
   {
     "numero": "032",
     "nome": "Nidoran♂",
-    "tipoA": "Venenoso",
-    "tipoB": "",
+    "tipoa": "Venenoso",
+    "tipob": "",
     "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/032.png"
   },
   {
     "numero": "033",
     "nome": "Nidorino",
-    "tipoA": "Venenoso",
-    "tipoB": "",
+    "tipoa": "Venenoso",
+    "tipob": "",
     "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/033.png"
   },
   {
     "numero": "034",
     "nome": "Nidoking",
-    "tipoA": "Venenoso",
-    "tipoB": "Terrestre",
+    "tipoa": "Venenoso",
+    "tipob": "Terrestre",
     "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/034.png"
   },
   {
     "numero": "035",
     "nome": "Clefairy",
-    "tipoA": "Fada",
-    "tipoB": "",
+    "tipoa": "Fada",
+    "tipob": "",
     "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/035.png"
   },
   {
     "numero": "036",
     "nome": "Clefable",
-    "tipoA": "Fada",
-    "tipoB": "",
+    "tipoa": "Fada",
+    "tipob": "",
     "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/036.png"
   },
   {
     "numero": "037",
     "nome": "Vulpix",
-    "tipoA": "Fogo",
-    "tipoB": "",
+    "tipoa": "Fogo",
+    "tipob": "",
     "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/037.png"
   },
   {
     "numero": "038",
     "nome": "Ninetales",
-    "tipoA": "Fogo",
-    "tipoB": "",
+    "tipoa": "Fogo",
+    "tipob": "",
     "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/038.png"
   },
   {
     "numero": "039",
     "nome": "Jigglypuff",
-    "tipoA": "Normal",
-    "tipoB": "Fada",
+    "tipoa": "Normal",
+    "tipob": "Fada",
     "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/039.png"
   },
   {
     "numero": "040",
     "nome": "Wigglytuff",
-    "tipoA": "Normal",
-    "tipoB": "Fada",
+    "tipoa": "Normal",
+    "tipob": "Fada",
     "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/040.png"
   },
   {
     "numero": "041",
     "nome": "Zubat",
-    "tipoA": "Venenoso",
-    "tipoB": "Voador",
+    "tipoa": "Venenoso",
+    "tipob": "Voador",
     "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/041.png"
   },
   {
     "numero": "042",
     "nome": "Golbat",
-    "tipoA": "Venenoso",
-    "tipoB": "Voador",
+    "tipoa": "Venenoso",
+    "tipob": "Voador",
     "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/042.png"
   },
   {
     "numero": "043",
     "nome": "Oddish",
-    "tipoA": "Planta",
-    "tipoB": "Venenoso",
+    "tipoa": "Planta",
+    "tipob": "Venenoso",
     "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/043.png"
   },
   {
     "numero": "044",
     "nome": "Gloom",
-    "tipoA": "Planta",
-    "tipoB": "Venenoso",
+    "tipoa": "Planta",
+    "tipob": "Venenoso",
     "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/044.png"
   },
   {
     "numero": "045",
     "nome": "Vileplume",
-    "tipoA": "Planta",
-    "tipoB": "Venenoso",
+    "tipoa": "Planta",
+    "tipob": "Venenoso",
     "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/045.png"
   },
   {
     "numero": "046",
     "nome": "Paras",
-    "tipoA": "Inseto",
-    "tipoB": "Planta",
+    "tipoa": "Inseto",
+    "tipob": "Planta",
     "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/046.png"
   },
   {
     "numero": "047",
     "nome": "Parasect",
-    "tipoA": "Inseto",
-    "tipoB": "Planta",
+    "tipoa": "Inseto",
+    "tipob": "Planta",
     "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/047.png"
   },
   {
     "numero": "048",
     "nome": "Venonat",
-    "tipoA": "Inseto",
-    "tipoB": "Venenoso",
+    "tipoa": "Inseto",
+    "tipob": "Venenoso",
     "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/048.png"
   },
   {
     "numero": "049",
     "nome": "Venomoth",
-    "tipoA": "Inseto",
-    "tipoB": "Venenoso",
+    "tipoa": "Inseto",
+    "tipob": "Venenoso",
     "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/049.png"
   },
   {
     "numero": "050",
     "nome": "Diglett",
-    "tipoA": "Terrestre",
-    "tipoB": "",
+    "tipoa": "Terrestre",
+    "tipob": "",
     "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/050.png"
   },
   {
     "numero": "051",
     "nome": "Dugtrio",
-    "tipoA": "Terrestre",
-    "tipoB": "",
+    "tipoa": "Terrestre",
+    "tipob": "",
     "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/051.png"
   },
   {
     "numero": "052",
     "nome": "Meowth",
-    "tipoA": "Normal",
-    "tipoB": "",
+    "tipoa": "Normal",
+    "tipob": "",
     "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/052.png"
   },
   {
     "numero": "053",
     "nome": "Persian",
-    "tipoA": "Normal",
-    "tipoB": "",
+    "tipoa": "Normal",
+    "tipob": "",
     "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/053.png"
   },
   {
     "numero": "054",
     "nome": "Psyduck",
-    "tipoA": "Água",
-    "tipoB": "",
+    "tipoa": "Água",
+    "tipob": "",
     "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/054.png"
   },
   {
     "numero": "055",
     "nome": "Golduck",
-    "tipoA": "Água",
-    "tipoB": "",
+    "tipoa": "Água",
+    "tipob": "",
     "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/055.png"
   },
   {
     "numero": "056",
     "nome": "Mankey",
-    "tipoA": "Lutador",
-    "tipoB": "",
+    "tipoa": "Lutador",
+    "tipob": "",
     "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/056.png"
   },
   {
     "numero": "057",
     "nome": "Primeape",
-    "tipoA": "Lutador",
-    "tipoB": "",
+    "tipoa": "Lutador",
+    "tipob": "",
     "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/057.png"
   },
   {
     "numero": "058",
     "nome": "Growlithe",
-    "tipoA": "Fogo",
-    "tipoB": "",
+    "tipoa": "Fogo",
+    "tipob": "",
     "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/058.png"
   },
   {
     "numero": "059",
     "nome": "Arcanine",
-    "tipoA": "Fogo",
-    "tipoB": "",
+    "tipoa": "Fogo",
+    "tipob": "",
     "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/059.png"
   },
   {
     "numero": "060",
     "nome": "Poliwag",
-    "tipoA": "Água",
-    "tipoB": "",
+    "tipoa": "Água",
+    "tipob": "",
     "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/060.png"
   },
   {
     "numero": "061",
     "nome": "Poliwhirl",
-    "tipoA": "Água",
-    "tipoB": "",
+    "tipoa": "Água",
+    "tipob": "",
     "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/061.png"
   },
   {
     "numero": "062",
     "nome": "Poliwrath",
-    "tipoA": "Água",
-    "tipoB": "Lutador",
+    "tipoa": "Água",
+    "tipob": "Lutador",
     "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/062.png"
   },
   {
     "numero": "063",
     "nome": "Abra",
-    "tipoA": "Psíquico",
-    "tipoB": "",
+    "tipoa": "Psíquico",
+    "tipob": "",
     "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/063.png"
   },
   {
     "numero": "064",
     "nome": "Kadabra",
-    "tipoA": "Psíquico",
-    "tipoB": "",
+    "tipoa": "Psíquico",
+    "tipob": "",
     "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/064.png"
   },
   {
     "numero": "065",
     "nome": "Alakazam",
-    "tipoA": "Psíquico",
-    "tipoB": "",
+    "tipoa": "Psíquico",
+    "tipob": "",
     "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/065.png"
   },
   {
     "numero": "066",
     "nome": "Machop",
-    "tipoA": "Lutador",
-    "tipoB": "",
+    "tipoa": "Lutador",
+    "tipob": "",
     "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/066.png"
   },
   {
     "numero": "067",
     "nome": "Machoke",
-    "tipoA": "Lutador",
-    "tipoB": "",
+    "tipoa": "Lutador",
+    "tipob": "",
     "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/067.png"
   },
   {
     "numero": "068",
     "nome": "Machamp",
-    "tipoA": "Lutador",
-    "tipoB": "",
+    "tipoa": "Lutador",
+    "tipob": "",
     "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/068.png"
   },
   {
     "numero": "069",
     "nome": "Bellsprout",
-    "tipoA": "Planta",
-    "tipoB": "Venenoso",
+    "tipoa": "Planta",
+    "tipob": "Venenoso",
     "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/069.png"
   },
   {
     "numero": "070",
     "nome": "Weepinbell",
-    "tipoA": "Planta",
-    "tipoB": "Venenoso",
+    "tipoa": "Planta",
+    "tipob": "Venenoso",
     "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/070.png"
   },
   {
     "numero": "071",
     "nome": "Victreebel",
-    "tipoA": "Planta",
-    "tipoB": "Venenoso",
+    "tipoa": "Planta",
+    "tipob": "Venenoso",
     "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/071.png"
   },
   {
     "numero": "072",
     "nome": "Tentacool",
-    "tipoA": "Água",
-    "tipoB": "Venenoso",
+    "tipoa": "Água",
+    "tipob": "Venenoso",
     "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/072.png"
   },
   {
     "numero": "073",
     "nome": "Tentacruel",
-    "tipoA": "Água",
-    "tipoB": "Venenoso",
+    "tipoa": "Água",
+    "tipob": "Venenoso",
     "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/073.png"
   },
   {
     "numero": "074",
     "nome": "Geodude",
-    "tipoA": "Pedra",
-    "tipoB": "Terrestre",
+    "tipoa": "Pedra",
+    "tipob": "Terrestre",
     "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/074.png"
   },
   {
     "numero": "075",
     "nome": "Graveler",
-    "tipoA": "Pedra",
-    "tipoB": "Terrestre",
+    "tipoa": "Pedra",
+    "tipob": "Terrestre",
     "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/075.png"
   },
   {
     "numero": "076",
     "nome": "Golem",
-    "tipoA": "Pedra",
-    "tipoB": "Terrestre",
+    "tipoa": "Pedra",
+    "tipob": "Terrestre",
     "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/076.png"
   },
   {
     "numero": "077",
     "nome": "Ponyta",
-    "tipoA": "Fogo",
-    "tipoB": "",
+    "tipoa": "Fogo",
+    "tipob": "",
     "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/077.png"
   },
   {
     "numero": "078",
     "nome": "Rapidash",
-    "tipoA": "Fogo",
-    "tipoB": "",
+    "tipoa": "Fogo",
+    "tipob": "",
     "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/078.png"
   },
   {
     "numero": "079",
     "nome": "Slowpoke",
-    "tipoA": "Água",
-    "tipoB": "Psíquico",
+    "tipoa": "Água",
+    "tipob": "Psíquico",
     "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/079.png"
   },
   {
     "numero": "080",
     "nome": "Slowbro",
-    "tipoA": "Água",
-    "tipoB": "Psíquico",
+    "tipoa": "Água",
+    "tipob": "Psíquico",
     "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/080.png"
   },
   {
     "numero": "081",
     "nome": "Magnemite",
-    "tipoA": "Elétrico",
-    "tipoB": "Aço",
+    "tipoa": "Elétrico",
+    "tipob": "Aço",
     "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/081.png"
   },
   {
     "numero": "082",
     "nome": "Magneton",
-    "tipoA": "Elétrico",
-    "tipoB": "Aço",
+    "tipoa": "Elétrico",
+    "tipob": "Aço",
     "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/082.png"
   },
   {
     "numero": "083",
     "nome": "Farfetch'd",
-    "tipoA": "Normal",
-    "tipoB": "Voador",
+    "tipoa": "Normal",
+    "tipob": "Voador",
     "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/083.png"
   },
   {
     "numero": "084",
     "nome": "Doduo",
-    "tipoA": "Normal",
-    "tipoB": "Voador",
+    "tipoa": "Normal",
+    "tipob": "Voador",
     "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/084.png"
   },
   {
     "numero": "085",
     "nome": "Dodrio",
-    "tipoA": "Normal",
-    "tipoB": "Voador",
+    "tipoa": "Normal",
+    "tipob": "Voador",
     "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/085.png"
   },
   {
     "numero": "086",
     "nome": "Seel",
-    "tipoA": "Água",
-    "tipoB": "",
+    "tipoa": "Água",
+    "tipob": "",
     "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/086.png"
   },
   {
     "numero": "087",
     "nome": "Dewgong",
-    "tipoA": "Água",
-    "tipoB": "Gelo",
+    "tipoa": "Água",
+    "tipob": "Gelo",
     "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/087.png"
   },
   {
     "numero": "088",
     "nome": "Grimer",
-    "tipoA": "Venenoso",
-    "tipoB": "",
+    "tipoa": "Venenoso",
+    "tipob": "",
     "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/088.png"
   },
   {
     "numero": "089",
     "nome": "Muk",
-    "tipoA": "Venenoso",
-    "tipoB": "",
+    "tipoa": "Venenoso",
+    "tipob": "",
     "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/089.png"
   },
   {
     "numero": "090",
     "nome": "Shellder",
-    "tipoA": "Água",
-    "tipoB": "",
+    "tipoa": "Água",
+    "tipob": "",
     "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/090.png"
   },
   {
     "numero": "091",
     "nome": "Cloyster",
-    "tipoA": "Água",
-    "tipoB": "Gelo",
+    "tipoa": "Água",
+    "tipob": "Gelo",
     "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/091.png"
   },
   {
     "numero": "092",
     "nome": "Gastly",
-    "tipoA": "Fantasma",
-    "tipoB": "Venenoso",
+    "tipoa": "Fantasma",
+    "tipob": "Venenoso",
     "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/092.png"
   },
   {
     "numero": "093",
     "nome": "Haunter",
-    "tipoA": "Fantasma",
-    "tipoB": "Venenoso",
+    "tipoa": "Fantasma",
+    "tipob": "Venenoso",
     "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/093.png"
   },
   {
     "numero": "094",
     "nome": "Gengar",
-    "tipoA": "Fantasma",
-    "tipoB": "Venenoso",
+    "tipoa": "Fantasma",
+    "tipob": "Venenoso",
     "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/094.png"
   },
   {
     "numero": "095",
     "nome": "Onix",
-    "tipoA": "Pedra",
-    "tipoB": "Terrestre",
+    "tipoa": "Pedra",
+    "tipob": "Terrestre",
     "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/095.png"
   },
   {
     "numero": "096",
     "nome": "Drowzee",
-    "tipoA": "Psíquico",
-    "tipoB": "",
+    "tipoa": "Psíquico",
+    "tipob": "",
     "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/096.png"
   },
   {
     "numero": "097",
     "nome": "Hypno",
-    "tipoA": "Psíquico",
-    "tipoB": "",
+    "tipoa": "Psíquico",
+    "tipob": "",
     "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/097.png"
   },
   {
     "numero": "098",
     "nome": "Krabby",
-    "tipoA": "Água",
-    "tipoB": "",
+    "tipoa": "Água",
+    "tipob": "",
     "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/098.png"
   },
   {
     "numero": "099",
     "nome": "Kingler",
-    "tipoA": "Água",
-    "tipoB": "",
+    "tipoa": "Água",
+    "tipob": "",
     "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/099.png"
   },
   {
     "numero": 100,
     "nome": "Voltorb",
-    "tipoA": "Elétrico",
-    "tipoB": "",
+    "tipoa": "Elétrico",
+    "tipob": "",
     "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/100.png"
   },
   {
     "numero": 101,
     "nome": "Electrode",
-    "tipoA": "Elétrico",
-    "tipoB": "",
+    "tipoa": "Elétrico",
+    "tipob": "",
     "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/101.png"
   },
   {
     "numero": 102,
     "nome": "Exeggcute",
-    "tipoA": "Planta",
-    "tipoB": "Psíquico",
+    "tipoa": "Planta",
+    "tipob": "Psíquico",
     "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/102.png"
   },
   {
     "numero": 103,
     "nome": "Exeggutor",
-    "tipoA": "Planta",
-    "tipoB": "Psíquico",
+    "tipoa": "Planta",
+    "tipob": "Psíquico",
     "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/103.png"
   },
   {
     "numero": 104,
     "nome": "Cubone",
-    "tipoA": "Terrestre",
-    "tipoB": "",
+    "tipoa": "Terrestre",
+    "tipob": "",
     "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/104.png"
   },
   {
     "numero": 105,
     "nome": "Marowak",
-    "tipoA": "Terrestre",
-    "tipoB": "",
+    "tipoa": "Terrestre",
+    "tipob": "",
     "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/105.png"
   },
   {
     "numero": 106,
     "nome": "Hitmonlee",
-    "tipoA": "Lutador",
-    "tipoB": "",
+    "tipoa": "Lutador",
+    "tipob": "",
     "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/106.png"
   },
   {
     "numero": 107,
     "nome": "Hitmonchan",
-    "tipoA": "Lutador",
-    "tipoB": "",
+    "tipoa": "Lutador",
+    "tipob": "",
     "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/107.png"
   },
   {
     "numero": 108,
     "nome": "Lickitung",
-    "tipoA": "Normal",
-    "tipoB": "",
+    "tipoa": "Normal",
+    "tipob": "",
     "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/108.png"
   },
   {
     "numero": 109,
     "nome": "Koffing",
-    "tipoA": "Venenoso",
-    "tipoB": "",
+    "tipoa": "Venenoso",
+    "tipob": "",
     "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/109.png"
   },
   {
     "numero": 110,
     "nome": "Weezing",
-    "tipoA": "Venenoso",
-    "tipoB": "",
+    "tipoa": "Venenoso",
+    "tipob": "",
     "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/110.png"
   },
   {
     "numero": 111,
     "nome": "Rhyhorn",
-    "tipoA": "Terrestre",
-    "tipoB": "Pedra",
+    "tipoa": "Terrestre",
+    "tipob": "Pedra",
     "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/111.png"
   },
   {
     "numero": 112,
     "nome": "Rhydon",
-    "tipoA": "Terrestre",
-    "tipoB": "Pedra",
+    "tipoa": "Terrestre",
+    "tipob": "Pedra",
     "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/112.png"
   },
   {
     "numero": 113,
     "nome": "Chansey",
-    "tipoA": "Normal",
-    "tipoB": "",
+    "tipoa": "Normal",
+    "tipob": "",
     "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/113.png"
   },
   {
     "numero": 114,
     "nome": "Tangela",
-    "tipoA": "Planta",
-    "tipoB": "",
+    "tipoa": "Planta",
+    "tipob": "",
     "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/114.png"
   },
   {
     "numero": 115,
     "nome": "Kangaskhan",
-    "tipoA": "Normal",
-    "tipoB": "",
+    "tipoa": "Normal",
+    "tipob": "",
     "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/115.png"
   },
   {
     "numero": 116,
     "nome": "Horsea",
-    "tipoA": "Água",
-    "tipoB": "",
+    "tipoa": "Água",
+    "tipob": "",
     "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/116.png"
   },
   {
     "numero": 117,
     "nome": "Seadra",
-    "tipoA": "Água",
-    "tipoB": "",
+    "tipoa": "Água",
+    "tipob": "",
     "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/117.png"
   },
   {
     "numero": 118,
     "nome": "Goldeen",
-    "tipoA": "Água",
-    "tipoB": "",
+    "tipoa": "Água",
+    "tipob": "",
     "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/118.png"
   },
   {
     "numero": 119,
     "nome": "Seaking",
-    "tipoA": "Água",
-    "tipoB": "",
+    "tipoa": "Água",
+    "tipob": "",
     "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/119.png"
   },
   {
     "numero": 120,
     "nome": "Staryu",
-    "tipoA": "Água",
-    "tipoB": "",
+    "tipoa": "Água",
+    "tipob": "",
     "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/120.png"
   },
   {
     "numero": 121,
     "nome": "Starmie",
-    "tipoA": "Água",
-    "tipoB": "Psíquico",
+    "tipoa": "Água",
+    "tipob": "Psíquico",
     "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/121.png"
   },
   {
     "numero": 122,
     "nome": "Mr. Mime",
-    "tipoA": "Psíquico",
-    "tipoB": "Fada",
+    "tipoa": "Psíquico",
+    "tipob": "Fada",
     "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/122.png"
   },
   {
     "numero": 123,
     "nome": "Scyther",
-    "tipoA": "Inseto",
-    "tipoB": "Voador",
+    "tipoa": "Inseto",
+    "tipob": "Voador",
     "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/123.png"
   },
   {
     "numero": 124,
     "nome": "Jynx",
-    "tipoA": "Gelo",
-    "tipoB": "Psíquico",
+    "tipoa": "Gelo",
+    "tipob": "Psíquico",
     "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/124.png"
   },
   {
     "numero": 125,
     "nome": "Electabuzz",
-    "tipoA": "Elétrico",
-    "tipoB": "",
+    "tipoa": "Elétrico",
+    "tipob": "",
     "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/125.png"
   },
   {
     "numero": 126,
     "nome": "Magmar",
-    "tipoA": "Fogo",
-    "tipoB": "",
+    "tipoa": "Fogo",
+    "tipob": "",
     "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/126.png"
   },
   {
     "numero": 127,
     "nome": "Pinsir",
-    "tipoA": "Inseto",
-    "tipoB": "",
+    "tipoa": "Inseto",
+    "tipob": "",
     "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/127.png"
   },
   {
     "numero": 128,
     "nome": "Tauros",
-    "tipoA": "Normal",
-    "tipoB": "",
+    "tipoa": "Normal",
+    "tipob": "",
     "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/128.png"
   },
   {
     "numero": 129,
     "nome": "Magikarp",
-    "tipoA": "Água",
-    "tipoB": "",
+    "tipoa": "Água",
+    "tipob": "",
     "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/129.png"
   },
   {
     "numero": 130,
     "nome": "Gyarados",
-    "tipoA": "Água",
-    "tipoB": "Voador",
+    "tipoa": "Água",
+    "tipob": "Voador",
     "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/130.png"
   },
   {
     "numero": 131,
     "nome": "Lapras",
-    "tipoA": "Água",
-    "tipoB": "Gelo",
+    "tipoa": "Água",
+    "tipob": "Gelo",
     "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/131.png"
   },
   {
     "numero": 132,
     "nome": "Ditto",
-    "tipoA": "Normal",
-    "tipoB": "",
+    "tipoa": "Normal",
+    "tipob": "",
     "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/132.png"
   },
   {
     "numero": 133,
     "nome": "Eevee",
-    "tipoA": "Normal",
-    "tipoB": "",
+    "tipoa": "Normal",
+    "tipob": "",
     "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/133.png"
   },
   {
     "numero": 134,
     "nome": "Vaporeon",
-    "tipoA": "Água",
-    "tipoB": "",
+    "tipoa": "Água",
+    "tipob": "",
     "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/134.png"
   },
   {
     "numero": 135,
     "nome": "Jolteon",
-    "tipoA": "Elétrico",
-    "tipoB": "",
+    "tipoa": "Elétrico",
+    "tipob": "",
     "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/135.png"
   },
   {
     "numero": 136,
     "nome": "Flareon",
-    "tipoA": "Fogo",
-    "tipoB": "",
+    "tipoa": "Fogo",
+    "tipob": "",
     "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/136.png"
   },
   {
     "numero": 137,
     "nome": "Porygon",
-    "tipoA": "Normal",
-    "tipoB": "",
+    "tipoa": "Normal",
+    "tipob": "",
     "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/137.png"
   },
   {
     "numero": 138,
     "nome": "Omanyte",
-    "tipoA": "Pedra",
-    "tipoB": "Água",
+    "tipoa": "Pedra",
+    "tipob": "Água",
     "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/138.png"
   },
   {
     "numero": 139,
     "nome": "Omastar",
-    "tipoA": "Pedra",
-    "tipoB": "Água",
+    "tipoa": "Pedra",
+    "tipob": "Água",
     "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/139.png"
   },
   {
     "numero": 140,
     "nome": "Kabuto",
-    "tipoA": "Pedra",
-    "tipoB": "Água",
+    "tipoa": "Pedra",
+    "tipob": "Água",
     "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/140.png"
   },
   {
     "numero": 141,
     "nome": "Kabutops",
-    "tipoA": "Pedra",
-    "tipoB": "Água",
+    "tipoa": "Pedra",
+    "tipob": "Água",
     "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/141.png"
   },
   {
     "numero": 142,
     "nome": "Aerodactyl",
-    "tipoA": "Pedra",
-    "tipoB": "Voador",
+    "tipoa": "Pedra",
+    "tipob": "Voador",
     "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/142.png"
   },
   {
     "numero": 143,
     "nome": "Snorlax",
-    "tipoA": "Normal",
-    "tipoB": "",
+    "tipoa": "Normal",
+    "tipob": "",
     "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/143.png"
   },
   {
     "numero": 144,
     "nome": "Articuno",
-    "tipoA": "Gelo",
-    "tipoB": "Voador",
+    "tipoa": "Gelo",
+    "tipob": "Voador",
     "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/144.png"
   },
   {
     "numero": 145,
     "nome": "Zapdos",
-    "tipoA": "Elétrico",
-    "tipoB": "Voador",
+    "tipoa": "Elétrico",
+    "tipob": "Voador",
     "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/145.png"
   },
   {
     "numero": 146,
     "nome": "Moltres",
-    "tipoA": "Fogo",
-    "tipoB": "Voador",
+    "tipoa": "Fogo",
+    "tipob": "Voador",
     "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/146.png"
   },
   {
     "numero": 147,
     "nome": "Dratini",
-    "tipoA": "Dragão",
-    "tipoB": "",
+    "tipoa": "Dragão",
+    "tipob": "",
     "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/147.png"
   },
   {
     "numero": 148,
     "nome": "Dragonair",
-    "tipoA": "Dragão",
-    "tipoB": "",
+    "tipoa": "Dragão",
+    "tipob": "",
     "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/148.png"
   },
   {
     "numero": 149,
     "nome": "Dragonite",
-    "tipoA": "Dragão",
-    "tipoB": "Voador",
+    "tipoa": "Dragão",
+    "tipob": "Voador",
     "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/149.png"
   },
   {
     "numero": 150,
     "nome": "Mewtwo",
-    "tipoA": "Psíquico",
-    "tipoB": "",
+    "tipoa": "Psíquico",
+    "tipob": "",
     "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/150.png"
   },
   {
     "numero": 151,
     "nome": "Mew",
-    "tipoA": "Psíquico",
-    "tipoB": "",
+    "tipoa": "Psíquico",
+    "tipob": "",
     "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/151.png"
   }
 ]
